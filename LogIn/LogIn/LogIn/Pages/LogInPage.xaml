@@ -1,0 +1,45 @@
+﻿<Page x:Class="LogIn.LogInPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="700"
+      Title="LogInPage">
+
+    <Border Background="Transparent">
+        <Grid>
+            <!--main content scroll-->
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" TextBlock.TextAlignment="Center">
+                    <Border
+                        CornerRadius="10"
+                        Padding="15 100 15 15"
+                        Width="320"
+                        Margin="50 50 50 0">
+                        <!--login main content box-->
+                        <Border.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF1E395B" Offset="1"/>
+                                <GradientStop Color="#FFC3C3C3" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <StackPanel>
+                            <!--sign up header-->
+                            <TextBlock Text="Sign Up" FontSize="{StaticResource FontSizeLarge}" FontFamily="{StaticResource LatoRegular}"
+                                   Foreground="{StaticResource WordBlueBrush}"/>
+                            <!--sign up subtext-->
+                            <TextBlock Padding="0 10" Text="It's about to get interesting" FontSize="{StaticResource FontSizeSmall}" FontFamily="{StaticResource LatoThin}"
+                                   Foreground="{StaticResource ForegroundLightBrush}"/>
+
+                            <TextBox Height="50" FontSize="15" Foreground="{StaticResource ForegroundLightBrush}"></TextBox>
+                            <TextBox Height="50"  FontSize="15" Foreground="{StaticResource ForegroundLightBrush}"></TextBox>
+                            <Button Content="Next" HorizontalAlignment="Center" Padding="50 10" Margin="0 25" FontSize="11"></Button>
+                        </StackPanel>
+                    </Border>
+                    <Button Content="I already have an account" HorizontalAlignment="Center" Padding="50 10" Margin="0 10" FontSize="11"></Button>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Border>
+</Page>
