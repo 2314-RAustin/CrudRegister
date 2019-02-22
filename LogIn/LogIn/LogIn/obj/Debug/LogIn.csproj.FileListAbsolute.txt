@@ -29,3 +29,36 @@ C:\Users\Asus.000\Desktop\MIT\Projects\WPF Course\LogIn\LogIn\LogIn\bin\Debug\Ma
 C:\Users\Asus.000\Desktop\MIT\Projects\WPF Course\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.dll
 C:\Users\Asus.000\Desktop\MIT\Projects\WPF Course\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\Users\Asus.000\Desktop\MIT\Projects\WPF Course\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignColors.dll
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\Microsoft.Windows.Shell.dll
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Pages\LogInPage.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Pages\LogInPage.g.cs
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\MainWindow.g.cs
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\App.g.cs
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn_MarkupCompile.cache
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn_MarkupCompile.lref
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\App.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\MainWindow.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Styles\Colors.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Styles\Buttons.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Styles\Windows.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Styles\Texts.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Styles\Fonts.baml
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.g.resources
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.csproj.CopyComplete
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Dashboard.g.cs
+C:\xampp\htdocs\IMT\Fork\CrudRegister\LogIn\LogIn\LogIn\obj\Debug\Dashboard.baml

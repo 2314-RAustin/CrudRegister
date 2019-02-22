@@ -25,8 +25,6 @@ namespace LogIn
         public double WindowMinimumWidth { get; set; } = 600;
         //The smallest Height the window can do
         public double WindowMinimumHeight { get; set; } = 600;
-    
-
        /// The size of the resize border around the window
         public int ResizeBorder { get { return Borderless ? 0 : 6; } }
         /// The size of the resize border arround the window, taking into account the outer margin
