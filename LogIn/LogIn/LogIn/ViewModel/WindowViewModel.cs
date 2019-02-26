@@ -66,6 +66,9 @@ namespace LogIn
 
         public ApplicationPages CurrentPage { get; set; } = ApplicationPages.LogIn;
 
+
+        
+
         #endregion
 
         #region Commands
