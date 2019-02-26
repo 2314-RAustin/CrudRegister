@@ -35,7 +35,7 @@ namespace LogIn
             {
                 if (sqlCon.State == ConnectionState.Closed)
                     sqlCon.Open();
-                string query = "SELECT COUNT(1) FROM tblUser WHERE Username=@Username AND Password=@Password";
+                string query = "SELECT COUNT(1) FROM LoginDB WHERE Username=@Username AND Pass=@Password";
                 SqlCommand sqlCmd = new SqlCommand(query, sqlCon);
                 sqlCmd.CommandType = CommandType.Text;
                 sqlCmd.Parameters.AddWithValue("@Username", txtUsername.Text);
@@ -44,6 +44,7 @@ namespace LogIn
 
                 if (count == 1)
                 {
+                    
                     MessageBox.Show("Welcome" + " " + txtUsername.Text);
                     Dashboard dashboard = new Dashboard();
                     dashboard.ShowDialog();   
@@ -61,6 +62,9 @@ namespace LogIn
             {
                 sqlCon.Close();
             }
+
+            
         }
+
     }
 }
